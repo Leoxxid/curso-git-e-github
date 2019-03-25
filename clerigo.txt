@@ -1,0 +1,9 @@
+Classe: 
+Clerigo
+
+Equipamento: 
+Malha/Média (Preferencial Clérigo), Couro/Leve, Tecido (Preferencial/Somente para Sacerdote) e também Escudos (para Clérigos)
+
+Arma: 
+Bastões, Cajados, Martelos, Maças
+

@@ -1,0 +1,14 @@
+Classe: 
+
+Guerreiro
+
+Equipamento: 
+
+Armadura e Escudo 
+
+Arma: 
+
+Espada
+
+Características de Classes:
+ * Campeão Marcial

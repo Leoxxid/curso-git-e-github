@@ -1,0 +1,15 @@
+Classe: 
+Mago
+
+Equipamento: 
+Chapéu, Túnica e Sapatos 
+
+Arma: 
+Cajado
+
+Características de Classes:
+ * Mestre Arcano
+ * Magos e Feiticeiros
+
+Descrição: 
+Magos são pesquisadores das artes arcanas da Idade Média. Costumam utilizar seu conhecimento em batalha no lugar das armas convencionais. Mas não são restringidos na utilização dos mesmos. Os Magos são fisicamente fracos. Podem também aparecer como mentores.
